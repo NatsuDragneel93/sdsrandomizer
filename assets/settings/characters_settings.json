@@ -158,7 +158,7 @@
         "images": "./assets/images/[Sweet Temptation] Derieri of Purity.png",
         "grade": "ssr",
         "race": "demon",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Diane Holy Knight [The Serpent Sin of Envy]",
@@ -256,14 +256,14 @@
         "images": "./assets/images/[Sunny Vacation] Noblesse Eastin.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "speed"
+        "attribute": "hp"
     },
     {
         "name": "Eastin Noblesse [Tuner of Blue Sea]",
         "images": "./assets/images/[Tuner of Blue Sea] Noblesse Eastin.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "speed"
+        "attribute": "strength"
     },
     {
         "name": "Elaine Guardian [Fairy King's Forest]",
@@ -794,8 +794,8 @@
         "name": "Liz Knight of Danafor [Memory Fragment]",
         "images": "./assets/images/[Memory Fragment] Knight of Danafor Liz.png",
         "grade": "ssr",
-        "race": "goddess",
-        "attribute": "speed"
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Mai Shiranui [KOF '98]",
@@ -943,7 +943,7 @@
         "images": "./assets/images/[Advent of Destruction] Human Weapon Mono.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "strength"
+        "attribute": "speed"
     },
     {
         "name": "Monspeet of Reticence [The Ten Commandments]",
@@ -964,7 +964,7 @@
         "images": "./assets/images/[Swift Sword] Foreign Swordsman Nanashi.png",
         "grade": "ssr",
         "race": "demon",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Oslo & Hawk [Knighthood of Scraps Disposal]",
@@ -1090,7 +1090,7 @@
         "images": "./assets/images/[Magic Weapon MK-II] Valenti of Obsession.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Valenti Weapon Researcher [Sunny Vacation]",
