@@ -574,6 +574,13 @@
         "attribute": "hp"
     },
     {
+      "name": "Hawk & Oslo[Knighthood of Scraps Disposal]",
+      "images": "./assets/images/[Knighthood of Scraps Disposal] Oslo & Hawk.png",
+      "grade": "ssr",
+      "race": "unknown",
+      "attribute": "strength"
+  },
+    {
         "name": "Helbram Fairy [Forest Guardian]",
         "images": "./assets/images/[Forest Guardian] Fairy Helbram.png",
         "grade": "ssr",
@@ -965,13 +972,6 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "speed"
-    },
-    {
-        "name": "Oslo & Hawk [Knighthood of Scraps Disposal]",
-        "images": "./assets/images/[Knighthood of Scraps Disposal] Oslo & Hawk.png",
-        "grade": "ssr",
-        "race": "unknown",
-        "attribute": "strength"
     },
     {
         "name": "Rimuru [Ruler of Monsters]",
