@@ -130,7 +130,7 @@
         "images": "./assets/images/[The Pleiades of the Azure Sky] Captain Denzel.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "hp"
+        "attribute": "strength"
     },
     {
         "name": "Deldry Holy Knight [The Pleiades of the Azure Sky]",
@@ -375,7 +375,7 @@
         "images": "./assets/images/[Invincible Avatar] Escanor The One.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Escanor Holy Knight [Sunshine]",
@@ -1083,14 +1083,14 @@
         "images": "./assets/images/[Earthshaker] Weapon Researcher Valenti.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Valenti of Obsession [Magic Weapon MK-II]",
         "images": "./assets/images/[Magic Weapon MK-II] Valenti of Obsession.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "speed"
+        "attribute": "hp"
     },
     {
         "name": "Valenti Weapon Researcher [Sunny Vacation]",
