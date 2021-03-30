@@ -18,7 +18,7 @@
         "images": "./assets/images/[Light of Hope] New King Arthur.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "strength"
+        "attribute": "hp"
     },
     {
         "name": "Arthur New King [Camelot's Sword]",
@@ -992,7 +992,7 @@
         "images": "./assets/images/[Halloween] Queen of Explosions Roxy.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "strength"
+        "attribute": "hp"
     },
     {
         "name": "Roxy Queen of Explosions [Mad Destroyer]",
@@ -1083,7 +1083,7 @@
         "images": "./assets/images/[Earthshaker] Weapon Researcher Valenti.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "speed"
+        "attribute": "hp"
     },
     {
         "name": "Valenti of Obsession [Magic Weapon MK-II]",
@@ -1097,7 +1097,7 @@
         "images": "./assets/images/[Sunny Vacation] Weapon Researcher Valenti.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Vivian Mage [Reincarnation of Obession]",
