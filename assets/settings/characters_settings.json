@@ -18,7 +18,7 @@
         "images": "./assets/images/[Light of Hope] New King Arthur.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "strength"
+        "attribute": "hp"
     },
     {
         "name": "Arthur New King [Camelot's Sword]",
@@ -88,6 +88,13 @@
         "images": "./assets/images/[Ale Collector] Adventurer Ban.png",
         "grade": "ssr",
         "race": "human",
+        "attribute": "speed"
+    },
+    {
+        "name": "Beatrice Caretaker of the Forbidden Library [ReZero]",
+        "images": "./assets/images/[ReZero] Caretaker of the Forbidden Library Beatrice.png",
+        "grade": "ssr",
+        "race": "unknown",
         "attribute": "speed"
     },
     {
@@ -355,6 +362,13 @@
         "grade": "ssr",
         "race": "goddess",
         "attribute": "strength"
+    },
+    {
+        "name": "Emilia Ruler Candidate [ReZero]",
+        "images": "./assets/images/[ReZero] Ruler Candidate Emilia.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Eren Yeager [Cadet Corps]",
@@ -974,6 +988,20 @@
         "attribute": "speed"
     },
     {
+        "name": "Ram Twin Maid Sister [ReZero]",
+        "images": "./assets/images/[ReZero] Twin Maid Sister Ram.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
+        "name": "Rem Twin Maid Sister [ReZero]",
+        "images": "./assets/images/[ReZero] Twin Maid Sister Rem.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Rimuru [Ruler of Monsters]",
         "images": "./assets/images/[Ruler of Monsters] Rimuru.png",
         "grade": "ssr",
@@ -992,7 +1020,7 @@
         "images": "./assets/images/[Halloween] Queen of Explosions Roxy.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "strength"
+        "attribute": "hp"
     },
     {
         "name": "Roxy Queen of Explosions [Mad Destroyer]",
@@ -1083,7 +1111,7 @@
         "images": "./assets/images/[Earthshaker] Weapon Researcher Valenti.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "speed"
+        "attribute": "hp"
     },
     {
         "name": "Valenti of Obsession [Magic Weapon MK-II]",
@@ -1097,7 +1125,7 @@
         "images": "./assets/images/[Sunny Vacation] Weapon Researcher Valenti.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Vivian Mage [Reincarnation of Obession]",
