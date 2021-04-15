@@ -126,6 +126,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Chandler Magician [Pacifier Fiend]",
+        "images": "./assets/images/[Pacifier Fiend] Magician Chandler.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
+    },
+    {
         "name": "Deathpierce Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Deathpierce.png",
         "grade": "ssr",
@@ -1168,5 +1175,12 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "speed"
+    },
+    {
+        "name": "Zeldris Executioner [Demon Kings Deputy]",
+        "images": "./assets/images/[Demon Kings Deputy] Executioner Zeldris.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "hp"
     }
 ]
