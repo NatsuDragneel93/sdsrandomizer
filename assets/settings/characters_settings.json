@@ -728,8 +728,8 @@
         "attribute": "hp"
     },
     {
-        "name": "Jim Hopper [Stranger Things]",
-        "images": "./assets/images/[Stranger Things] Jim Hopper.png",
+        "name": "Jim Hoppers [Stranger Things]",
+        "images": "./assets/images/[Stranger Things] Jim Hoppers.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
