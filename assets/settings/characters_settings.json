@@ -315,6 +315,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Eleven [Stranger Things]",
+        "images": "./assets/images/[Stranger Things] Eleven.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Elizabeth Princess [A New Adventure]",
         "images": "./assets/images/[A New Adventure] Princess Elizabeth.png",
         "grade": "ssr",
@@ -721,6 +728,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Jim Hopper [Stranger Things]",
+        "images": "./assets/images/[Stranger Things] Jim Hopper.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Jude Holy Knight [Weird Fangs]",
         "images": "./assets/images/[Weird Fangs] Holy Knight Jude.png",
         "grade": "r",
@@ -822,7 +836,7 @@
         "name": "Liz Knight of Danafor [Memory Fragment]",
         "images": "./assets/images/[Memory Fragment] Knight of Danafor Liz.png",
         "grade": "ssr",
-        "race": "human",
+        "race": "goddess",
         "attribute": "hp"
     },
     {
@@ -950,6 +964,14 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+
+    },
+    {
+        "name": "Mike Wheelers [Stranger Things]",
+        "images": "./assets/images/[Stranger Things] Mike Wheelers.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
 
     },
     {
@@ -1140,6 +1162,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Will Byers [Stranger Things]",
+        "images": "./assets/images/[Stranger Things] Will Byers.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Weinheidt Holy Knight [Roars of Dawn]",
