@@ -14,6 +14,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Arthur Excalibur [Chosen King]",
+        "images": "./assets/images/[Chosen King] Excalibur Arthur.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Arthur New King [Light of Hope]",
         "images": "./assets/images/[Light of Hope] New King Arthur.png",
         "grade": "ssr",
