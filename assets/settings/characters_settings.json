@@ -56,6 +56,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Ban Purgatory [Undead Survivor]",
+        "images": "./assets/images/[Undead Survivor] Purgatory Ban.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Ban Brawler [Snatch]",
         "images": "./assets/images/[Snatch] Brawler Ban.png",
         "grade": "ssr",
