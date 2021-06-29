@@ -623,6 +623,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Hawk & Oslo [Fun Party]",
+        "images": "./assets/images/[Fun Party] Oslo & Hawk.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Helbram Fairy [Forest Guardian]",
         "images": "./assets/images/[Forest Guardian] Fairy Helbram.png",
         "grade": "ssr",
@@ -938,6 +945,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Meliodas Lostvayne [Ragnarok]",
+        "images": "./assets/images/[Ragnarok] Meliodas Lostvayne.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
+    },
+    {
         "name": "Meliodas Lostvayne [Virtual Body Doubles]",
         "images": "./assets/images/[Virtual Body Doubles] Lostvayne Meliodas.png",
         "grade": "ssr",
@@ -1108,6 +1122,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Sigurd Prince Crowned [Owner of Gram]",
+        "images": "./assets/images/[Owner of Gram] Sigurd Prince Crowned.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Simon Holy Knight [Roars of Dawn]",
         "images": "./assets/images/[Roars of Dawn] Holy Knight Simon.png",
         "grade": "r",
@@ -1141,6 +1162,13 @@
         "grade": "ssr",
         "race": "goddess",
         "attribute": "speed"
+    },
+    {
+        "name": "Thonar Wanderer [Warrior of Justice]",
+        "images": "./assets/images/[Warrior of Justice] Thonar Wanderer.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Twigo Apprentice Holy Knight [Confirmation]",
