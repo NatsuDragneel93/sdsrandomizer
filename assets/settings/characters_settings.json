@@ -385,6 +385,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Elizabeth & Hawk [Summer Mood]",
+        "images": "./assets/images/[Summer Mood] Guardian Hawk & Elizabeth.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
+    },
+    {
         "name": "Ellatte Celestial [[Wings of the Sky]",
         "images": "./assets/images/[Wings of the Sky] Celestial Ellatte.png",
         "grade": "ssr",
@@ -987,6 +994,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Merlin Truthseeker [Seaside Lady]",
+        "images": "./assets/images/[Seaside Lady] Truthseeker Merlin.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Mikasa Ackermann [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Mikasa Ackermann.png",
         "grade": "ssr",
@@ -1085,6 +1099,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Roxy Queen of Explosions [Midsummer Sun]",
+        "images": "./assets/images/[Midsummer Sun] Queen of Explosions Roxy.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Rugal Omega [KOF '98]",
