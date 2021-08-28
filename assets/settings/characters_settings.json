@@ -147,6 +147,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Cusack Dual Swordsman [Napping Reaper]",
+        "images": "./assets/images/[Napping Reaper] Dual Swordsman Cusack.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
+    },
+    {
         "name": "Deathpierce Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Deathpierce.png",
         "grade": "ssr",
