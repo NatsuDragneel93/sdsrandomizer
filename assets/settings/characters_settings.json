@@ -588,6 +588,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Gowther Hijack [Complications]",
+        "images": "./assets/images/[Complications] Hijack Gowther.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Griamore Guardian [Iron-wall Knight]",
         "images": "./assets/images/[Iron-wall Knight] Guardian Griamore.png",
         "grade": "ssr",
@@ -719,6 +726,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Howzer Holy Knight [Holy War Knight]",
+        "images": "./assets/images/[Holy War Knight] Holy Knight Howzer.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Hugo Holy Knight [Roars of Dawn]",
