@@ -259,6 +259,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Diane Will of protection [Halloween]",
+        "images": "./assets/images/[Halloween] Will of protection Diane.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "hp"
+    },
+    {
         "name": "Dogedo Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Dogedo.png",
         "grade": "sr",
@@ -931,6 +938,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Matrona Mercenary [Halloween]",
+        "images": "./assets/images/[Halloween] Mercenary Matrona.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "strength"
+    },
+    {
         "name": "Melascula of Faith [Elite Demon]",
         "images": "./assets/images/[Elite Demon] Melascula of Faith.png",
         "grade": "ssr",
@@ -1209,6 +1223,13 @@
         "name": "Slater Captain [Roars of Dawn]",
         "images": "./assets/images/[Roars of Dawn] Captain Slater.png",
         "grade": "sr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
+        "name": "Slater Hunter [Halloween]",
+        "images": "./assets/images/[Halloween] Hunter Slater.png",
+        "grade": "ssr",
         "race": "human",
         "attribute": "strength"
     },
