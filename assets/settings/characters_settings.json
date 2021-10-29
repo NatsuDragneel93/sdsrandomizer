@@ -868,6 +868,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Iori Yagami [KOF '98]",
+        "images": "./assets/images/[KOF '98] Iori Yagami.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Levi [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Levi.png",
         "grade": "ssr",
@@ -1246,6 +1253,13 @@
         "grade": "ssr",
         "race": "goddess",
         "attribute": "speed"
+    },
+    {
+        "name": "Terry Bogard [KOF '98]",
+        "images": "./assets/images/[KOF '98] Bogard Terry.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Thonar Wanderer [Warrior of Justice]",
