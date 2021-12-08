@@ -861,6 +861,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Harlequin Fairy King [Protector King]",
+        "images": "./assets/images/[Protector King] Harlequin Fairy King.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "speed"
+    },
+    {
         "name": "Kyo Kusanagi [KOF '98]",
         "images": "./assets/images/[KOF '98] Kusanagi Kyo.png",
         "grade": "ssr",
