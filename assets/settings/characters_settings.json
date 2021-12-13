@@ -910,6 +910,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Lillia of Desire [Illusion of Holy Nigth]",
+        "images": "./assets/images/[Illusion of Holy Nigth] Lillia of Desire.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Ludociel of Flash [The Four Archangels]",
         "images": "./assets/images/[The Four Archangels] Ludociel of Flash.png",
         "grade": "ssr",
