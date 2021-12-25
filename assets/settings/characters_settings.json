@@ -924,18 +924,25 @@
         "attribute": "speed"
     },
     {
-        "name": "Ludociel Oath of Light [Advent of Flash]",
-        "images": "./assets/images/[Advent of Flash] Oath of Light Ludociel.png",
-        "grade": "ssr",
-        "race": "goddess",
-        "attribute": "speed"
-    },
-    {
         "name": "Liz Knight of Danafor [Memory Fragment]",
         "images": "./assets/images/[Memory Fragment] Knight of Danafor Liz.png",
         "grade": "ssr",
         "race": "goddess",
         "attribute": "hp"
+    },
+    {
+        "name": "Liz Knight of Danafor [Starry Night's Illusion]",
+        "images": "./assets/images/[Memory Fragment] Knight of Danafor Liz.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
+    },
+    {
+        "name": "Ludociel Oath of Light [Advent of Flash]",
+        "images": "./assets/images/[Advent of Flash] Oath of Light Ludociel.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "speed"
     },
     {
         "name": "Mai Shiranui [KOF '98]",
