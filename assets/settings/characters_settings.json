@@ -1057,6 +1057,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Meliodas Traitor [Holy Warrior]",
+        "images": "./assets/images/[Holy Warrior] Traitor Meliodas.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "darkness"
+    },
+    {
         "name": "Merlin Great Mage [The Boar Sin of Gluttony]",
         "images": "./assets/images/[The Boar Sin of Gluttony] Great Mage Merlin.png",
         "grade": "ssr",
