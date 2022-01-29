@@ -427,8 +427,8 @@
         "attribute": "strength"
     },
     {
-        "name": "Ellatte Celestial [Guardian of Sky Castel]",
-        "images": "./assets/images/[Guardian of Sky Castel] Celestial Ellatte.png",
+        "name": "Ellatte Celestial [Guardian of Sky Castle]",
+        "images": "./assets/images/[Guardian of Sky Castle] Celestial Ellatte.png",
         "grade": "ssr",
         "race": "goddess",
         "attribute": "speed"
