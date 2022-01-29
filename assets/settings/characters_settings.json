@@ -420,11 +420,18 @@
         "attribute": "strength"
     },
     {
-        "name": "Ellatte Celestial [[Wings of the Sky]",
+        "name": "Ellatte Celestial [Wings of the Sky]",
         "images": "./assets/images/[Wings of the Sky] Celestial Ellatte.png",
         "grade": "ssr",
         "race": "goddess",
         "attribute": "strength"
+    },
+    {
+        "name": "Ellatte Celestial [Guardian of Sky Castel]",
+        "images": "./assets/images/[Guardian of Sky Castel] Celestial Ellatte.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "speed"
     },
     {
         "name": "Emilia Ruler Candidate [ReZero]",
@@ -1234,6 +1241,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Sariel Covenant of Light [Advent of Tornado]",
+        "images": "./assets/images/[Advent of Tornado] Covenant of Light Sariel.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "hp"
+    },
+    {
         "name": "Shin Gamer [Halloween]",
         "images": "./assets/images/[Halloween] Gamer Shin.png",
         "grade": "ssr",
@@ -1259,6 +1273,13 @@
         "images": "./assets/images/[Roars of Dawn] Holy Knight Simon.png",
         "grade": "r",
         "race": "human",
+        "attribute": "strength"
+    },
+    {
+        "name": "Skadi Titan [Hunter of Severe Cold]",
+        "images": "./assets/images/[Hunter of Severe Cold] Titan Skadi.png",
+        "grade": "ssr",
+        "race": "giant",
         "attribute": "strength"
     },
     {
