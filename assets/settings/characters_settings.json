@@ -1001,6 +1001,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Melascula of Faith [Bitter & Sweet]",
+        "images": "./assets/images/[Bitter & Sweet] Melascula of Faith.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "hp"
+    },
+    {
         "name": "Meliodas Berserk [Assault Mode]",
         "images": "./assets/images/[Assault Mode] Berserk Meliodas.png",
         "grade": "ssr",
