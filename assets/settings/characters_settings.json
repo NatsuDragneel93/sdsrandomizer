@@ -266,6 +266,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Diane Queen [Waves of the Earth]",
+        "images": "./assets/images/[Waves of the Earth] Queen Diane.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "strength"
+    },
+    {
         "name": "Dogedo Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Dogedo.png",
         "grade": "sr",
