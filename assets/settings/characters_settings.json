@@ -357,6 +357,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Elaine Golden Wings [Scent of Spring]",
+        "images": "./assets/images/[Scent of Spring] Golden Wings Elaine.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "speed"
+    },
+    {
         "name": "Elizabeth Princess [Liones]",
         "images": "./assets/images/[Liones] Princess Elizabeth.png",
         "grade": "ssr",
