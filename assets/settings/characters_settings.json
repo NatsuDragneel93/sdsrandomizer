@@ -63,6 +63,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Ban Brawler [Ragnarok]",
+        "images": "./assets/images/[Ragnarok] Brawler Ban.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Ban Brawler [Snatch]",
         "images": "./assets/images/[Snatch] Brawler Ban.png",
         "grade": "ssr",
