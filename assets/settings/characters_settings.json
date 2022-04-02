@@ -833,6 +833,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Jormungandr The World Serpent [Snake Calmer]",
+        "images": "./assets/images/[Snake Calmer] The World Serpent Jormungandr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Jude Holy Knight [Weird Fangs]",
         "images": "./assets/images/[Weird Fangs] Holy Knight Jude.png",
         "grade": "r",
