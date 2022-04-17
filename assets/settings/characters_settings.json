@@ -1353,6 +1353,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Tarmiel Covenant of Light [Advent of Ocean]",
+        "images": "./assets/images/[Advent of Ocean] Covenant of Light Tarmiel.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
+    },
+    {
         "name": "Terry Bogard [KOF '98]",
         "images": "./assets/images/[KOF '98] Bogard Terry.png",
         "grade": "ssr",
