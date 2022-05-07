@@ -1220,6 +1220,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Rimuru Tempest [Octagram]",
+        "images": "./assets/images/[Octagram] Rimuru Tempest.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Rimuru [Ruler of Monsters]",
         "images": "./assets/images/[Ruler of Monsters] Rimuru.png",
         "grade": "ssr",
@@ -1294,6 +1301,13 @@
         "images": "./assets/images/[Dungeon Raider] Gamer Shin.png",
         "grade": "ssr",
         "race": "human",
+        "attribute": "hp"
+    },
+    {
+        "name": "Shuna [Oni]",
+        "images": "./assets/images/[Oni] Shuna.png",
+        "grade": "ssr",
+        "race": "unknown",
         "attribute": "hp"
     },
     {
