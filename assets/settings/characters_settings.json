@@ -1185,6 +1185,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Mono Iron Blood [Weapon Master]",
+        "images": "./assets/images/[Weapon Master] Iron Blood Mono.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Monspeet of Reticence [The Ten Commandments]",
         "images": "./assets/images/[The Ten Commandments] Monspeet of Reticence.png",
         "grade": "ssr",
