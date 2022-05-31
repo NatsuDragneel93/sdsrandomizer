@@ -413,6 +413,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Elizabeth of Reincarnation [Restored Memory]",
+        "images": "./assets/images/[Restored Memory] Elizabeth of Reincarnation.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "light"
+    },
+    {
         "name": "Elizabeth & Hawk [Reverse]",
         "images": "./assets/images/[Reverse] Hawk & Elizabeth.png",
         "grade": "ssr",
@@ -684,6 +691,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
+    },
+    {
+        "name": "Hawk Captain [New Pub]",
+        "images": "./assets/images/[New Pub] Captain Hawk.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
     },
     {
         "name": "Hawk & Oslo [Knighthood of Scraps Disposal]",
