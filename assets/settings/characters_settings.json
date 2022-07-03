@@ -133,11 +133,18 @@
         "attribute": "strength"
     },
     {
-        "name": "Brynhildr Princess [Guardian of Battlefield]",
+        "name": "Brunhild Princess [Guardian of Battlefield]",
         "images": "./assets/images/[Guardian of Battlefield] Princess Brynhildr.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Brunhild Princess [Bride of the Snow Country]",
+        "images": "./assets/images/[Bride of the Snow Country] Princess Brunhild.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Cain Knight of Danafor [Burning Ember]",
@@ -537,6 +544,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Freyr Sun God [Master of Light]",
+        "images": "./assets/images/[Master of Light] Sun God Freyr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
     },
     {
         "name": "Galland of Truth [The Ten Commandments]",
@@ -1022,7 +1036,7 @@
         "attribute": "strength"
     },
     {
-        "name": "Megerda Valkyrie [Guide of Valhalla]",
+        "name": "Megelda Valkyrie [Guide of Valhalla]",
         "images": "./assets/images/[Guide of Valhalla] Megerda Valkyrie.png",
         "grade": "ssr",
         "race": "unknown",
@@ -1118,6 +1132,13 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "darkness"
+    },
+    {
+        "name": "Meliodas Captain [Tomorrow's Champion]",
+        "images": "./assets/images/[Tomorrow's Champion] Captain Meliodas.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
     },
     {
         "name": "Merlin Great Mage [The Boar Sin of Gluttony]",
