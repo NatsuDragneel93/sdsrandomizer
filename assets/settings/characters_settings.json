@@ -532,6 +532,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Estarossa Berserk [Twisted Darkness]",
+        "images": "./assets/images/[Twisted Darkness] Berserk Estarossa.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
+    },
+    {
         "name": "Fraudrin of Selflessness [The Ten Commandments]",
         "images": "./assets/images/[The Ten Commandments] Fraudrin of Selflessness.png",
         "grade": "ssr",
@@ -1519,5 +1526,12 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "hp"
+    },
+    {
+        "name": "Zeldris Prince of Darkness [Ominus Nebula]",
+        "images": "./assets/images/[Ominus Nebula] Prince of Darkness Zeldris.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
     }
 ]
