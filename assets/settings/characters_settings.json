@@ -1444,6 +1444,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Thonar Wanderer [Hidden Savior]",
+        "images": "./assets/images/[Hidden Savior] Thonar Wanderer.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Twigo Apprentice Holy Knight [Confirmation]",
         "images": "./assets/images/[Confirmation] Apprentice Holy Knight Twigo.png",
         "grade": "r",
