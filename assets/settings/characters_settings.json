@@ -168,6 +168,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Highest-Ranking Demon Chandler [Origin Fragment]",
+        "images": "./assets/images/[Origin Fragment] Highest-Ranking Demon Chandler.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "hp"
+    },
+    {
         "name": "Cusack Dual Swordsman [Napping Reaper]",
         "images": "./assets/images/[Napping Reaper] Dual Swordsman Cusack.png",
         "grade": "ssr",
@@ -1199,6 +1206,13 @@
     {
         "name": "Merlin Truthseeker [Ragnarok]",
         "images": "./assets/images/[Ragnarok] Merlin Truth Seeker.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
+        "name": "Merlin Infinity Mage [The Last Sage]",
+        "images": "./assets/images/[The Last Sage] Infinity Mage Merlin.png",
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
