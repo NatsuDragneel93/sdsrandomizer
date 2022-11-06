@@ -357,6 +357,20 @@
         "attribute": "strength"
     },
     {
+        "name": "Eastin of Authority [Empress of the Sea]",
+        "images": "./assets/images/[Empress of the Sea] Eastin of Authority.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
+        "name": "Eastin of Authority [Empress of the Sea]",
+        "images": "./assets/images/[Spooky Party] Eastin of Authority.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Echidna Witch of Greed [ReZero]",
         "images": "./assets/images/[ReZero] Witch of Greed Echidna.png",
         "grade": "ssr",
@@ -551,6 +565,13 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "speed"
+    },
+    {
+        "name": "Filo [Queen's Successor]",
+        "images": "./assets/images/[Queen's Successor] Filo.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Fraudrin of Selflessness [The Ten Commandments]",
@@ -959,6 +980,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Kazayama Kizuna [Hunting Hero]",
+        "images": "./assets/images/[Hunting Hero] Kazayama Kizuna.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Kyo Kusanagi [KOF '98]",
         "images": "./assets/images/[KOF '98] Kusanagi Kyo.png",
         "grade": "ssr",
@@ -1278,6 +1306,20 @@
     {
         "name": "Nanashi Foreign Swordsman [Swift Sword]",
         "images": "./assets/images/[Swift Sword] Foreign Swordsman Nanashi.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
+        "name": "Naofumi Iwatani [Shield Hero]",
+        "images": "./assets/images/[Shield Hero] Iwatani Naofumi.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
+        "name": "Raphtalia [Naofumi's Sword]",
+        "images": "./assets/images/[Naofumi's Sword] Raphtalia.png",
         "grade": "ssr",
         "race": "unknown",
         "attribute": "speed"
