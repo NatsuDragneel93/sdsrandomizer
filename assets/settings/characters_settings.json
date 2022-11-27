@@ -182,6 +182,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Highest-Ranking Demon Cusack [Origin Fragment]",
+        "images": "./assets/images/[Origin Fragment] Highest-Ranking Demon Cusack.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
+    },
+    {
         "name": "Deathpierce Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Deathpierce.png",
         "grade": "ssr",
@@ -525,6 +532,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Escanor Ultimate [Flame of Life]",
+        "images": "./assets/images/[Flame of Life] Ultimate Escanor.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "light"
+    },
+    {
         "name": "Escanor The One [Invincible Avatar]",
         "images": "./assets/images/[Invincible Avatar] Escanor The One.png",
         "grade": "ssr",
@@ -719,6 +733,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Griamore Guardian [Knight of the Holy War]",
+        "images": "./assets/images/[Knight of the Holy War] Guardian Griamore.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Guila Guardian [Explosion]",
