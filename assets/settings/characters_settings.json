@@ -1218,6 +1218,13 @@
         "attribute": "darkness"
     },
     {
+        "name": "Meliodas Purgatory [Cursed Shackles]",
+        "images": "./assets/images/[Cursed Shackles] Purgatory Meliodas.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "darkness"
+    },
+    {
         "name": "Meliodas Captain [Tomorrow's Champion]",
         "images": "./assets/images/[Tomorrow's Champion] Captain Meliodas.png",
         "grade": "ssr",
