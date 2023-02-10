@@ -952,7 +952,7 @@
         "attribute": "strength"
     },
     {
-        "name": "King Far [Disaster Old]",
+        "name": "King Fart [Disaster Old]",
         "images": "./assets/images/[Disaster Old] Fart King.png",
         "grade": "ssr",
         "race": "fairy",
@@ -992,6 +992,13 @@
         "grade": "ssr",
         "race": "fairy",
         "attribute": "speed"
+    },
+    {
+        "name": "King Small Winged [Sweet Jelly]",
+        "images": "./assets/images/[Sweet Jelly] Small Winged King.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "hp"
     },
     {
         "name": "King New Wings [Signs of Maturity]",
