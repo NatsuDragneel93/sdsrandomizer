@@ -1106,6 +1106,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Mael of Sun [The Four Archangels]",
+        "images": "./assets/images/[The Four Archangels] Mael of Sun.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "light"
+    },
+    {
         "name": "Mai Shiranui [KOF '98]",
         "images": "./assets/images/[KOF '98] Shiranui Mai.png",
         "grade": "ssr",
