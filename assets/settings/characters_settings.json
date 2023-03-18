@@ -1077,6 +1077,13 @@
         "race": "goddess",
         "attribute": "speed"
     },
+        {
+        "name": "Ludociel of Flash [Divine Proxy]",
+        "images": "./assets/images/[Divine Proxy] Ludociel of Flash.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "hp"
+    },
     {
         "name": "Liz Knight of Danafor [Memory Fragment]",
         "images": "./assets/images/[Memory Fragment] Knight of Danafor Liz.png",
