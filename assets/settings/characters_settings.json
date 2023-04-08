@@ -1155,6 +1155,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Megellda Valkyrie [Pride of Valhalla]",
+        "images": "./assets/images/[Pride of Valhalla] Valkyrie Megellda.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Melascula of Faith [Elite Demon]",
         "images": "./assets/images/[Elite Demon] Melascula of Faith.png",
         "grade": "ssr",
@@ -1453,6 +1460,13 @@
     {
         "name": "Roxy Queen of Explosions [Midsummer Sun]",
         "images": "./assets/images/[Midsummer Sun] Queen of Explosions Roxy.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
+        "name": "Roxy of Madness [Vengeful Saw Blade]",
+        "images": "./assets/images/[Vengeful Saw Blade] Roxy of Madness.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
