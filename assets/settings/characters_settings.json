@@ -161,6 +161,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Camila Guardian Deity [Heart of the Beast]",
+        "images": "./assets/images/[Heart of the Beast] Guardian Deity Camila.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Chandler Magician [Pacifier Fiend]",
         "images": "./assets/images/[Pacifier Fiend] Magician Chandler.png",
         "grade": "ssr",
@@ -462,6 +469,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Elizabeth Goddess [Spring Fantasy]",
+        "images": "./assets/images/[Spring Fantasy] Goddess Elizabeth.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
+    },
+    {
         "name": "Elizabeth of Reincarnation [Restored Memory]",
         "images": "./assets/images/[Restored Memory] Elizabeth of Reincarnation.png",
         "grade": "ssr",
@@ -530,6 +544,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Eris Boreas [Mad Dog]",
+        "images": "./assets/images/[Mad Dog] Eris Boreas.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Escanor Ultimate [Flame of Life]",
@@ -641,6 +662,13 @@
         "images": "./assets/images/[Three Millennia of Memories] Aide Gerharde.png",
         "grade": "ssr",
         "race": "fairy",
+        "attribute": "hp"
+    },
+    {
+        "name": "Ghislaine Dedoldia [Sword King]",
+        "images": "./assets/images/[Sword King] Ghislaine Dedoldia.png",
+        "grade": "ssr",
+        "race": "unknown",
         "attribute": "hp"
     },
     {
@@ -884,6 +912,13 @@
     {
         "name": "Jenna Druid [Sweet Temptation]",
         "images": "./assets/images/[Sweet Temptation] Druid Jenna.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
+        "name": "Jenna Lead Vocalist [MAVE]",
+        "images": "./assets/images/[MAVE] Lead Vocalist Jenna.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
@@ -1470,6 +1505,20 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Roxy Migurdia [King-Class Water Mage]",
+        "images": "./assets/images/[King-Class Water Mage] Roxy Migurdia.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
+        "name": "Rudeus Greyrat [Otherworldly Reincarnation]",
+        "images": "./assets/images/[Otherworldly Reincarnation] Rudeus Greyrat.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Rugal Omega [KOF '98]",
