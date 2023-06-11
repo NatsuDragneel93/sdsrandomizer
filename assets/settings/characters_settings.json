@@ -21,6 +21,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Arthur Excalibur [Will of the Holy Sword]",
+        "images": "./assets/images/[Will of the Holy Sword] Excalibur Arthur.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Arthur New King [Light of Hope]",
         "images": "./assets/images/[Light of Hope] New King Arthur.png",
         "grade": "ssr",
@@ -54,6 +61,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Ban Transcendence [The Seven Deadly Sins]",
+        "images": "./assets/images/[The Seven Deadly Sins] Transcendence Ban.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "light"
     },
     {
         "name": "Ban Purgatory [Undead Survivor]",
@@ -1652,6 +1666,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Tristan Prince [Future of Liones]",
+        "images": "./assets/images/[Future of Liones] Prince Tristan.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Twigo Apprentice Holy Knight [Confirmation]",
