@@ -1682,6 +1682,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Tyr God of War [Indomitable Will]",
+        "images": "./assets/images/[Indomitable Will] God of War Tyr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Valenti Weapon Researcher [Earthshaker]",
         "images": "./assets/images/[Earthshaker] Weapon Researcher Valenti.png",
         "grade": "ssr",
