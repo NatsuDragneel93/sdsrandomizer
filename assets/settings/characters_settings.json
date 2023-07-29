@@ -217,6 +217,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Demon King Tyrant [The Ruler]",
+        "images": "./assets/images/[The Ruler] Tyrant Demon King.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "darkness"
+    },
+    {
         "name": "Denzel Captain [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Captain Denzel.png",
         "grade": "ssr",
@@ -649,6 +656,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
+    },
+    {
+        "name": "Freya Goddess of Beauty [Summer Illusion]",
+        "images": "./assets/images/[Summer Illusion] Goddess of Beauty Freyja.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Freyr Sun God [Master of Light]",
