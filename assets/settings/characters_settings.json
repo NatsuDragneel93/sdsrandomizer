@@ -1134,20 +1134,6 @@
         "attribute": "speed"
     },
     {
-        "name": "Ludociel of Flash [The Four Archangels]",
-        "images": "./assets/images/[The Four Archangels] Ludociel of Flash.png",
-        "grade": "ssr",
-        "race": "goddess",
-        "attribute": "speed"
-    },
-        {
-        "name": "Ludociel of Flash [Divine Proxy]",
-        "images": "./assets/images/[Divine Proxy] Ludociel of Flash.png",
-        "grade": "ssr",
-        "race": "goddess",
-        "attribute": "hp"
-    },
-    {
         "name": "Liz Knight of Danafor [Memory Fragment]",
         "images": "./assets/images/[Memory Fragment] Knight of Danafor Liz.png",
         "grade": "ssr",
@@ -1169,11 +1155,32 @@
         "attribute": "speed"
     },
     {
+        "name": "Ludociel of Flash [The Four Archangels]",
+        "images": "./assets/images/[The Four Archangels] Ludociel of Flash.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "speed"
+    },
+        {
+        "name": "Ludociel of Flash [Divine Proxy]",
+        "images": "./assets/images/[Divine Proxy] Ludociel of Flash.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "hp"
+    },
+    {
         "name": "Ludociel Oath of Light [Advent of Flash]",
         "images": "./assets/images/[Advent of Flash] Oath of Light Ludociel.png",
         "grade": "ssr",
         "race": "goddess",
         "attribute": "speed"
+    },
+    {
+        "name": "Covenant of Light Ludociel [Summer Mirage]",
+        "images": "./assets/images/[Summer Mirage] Covenant of Light Ludociel.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
     },
     {
         "name": "Mael of Sun [The Four Archangels]",
