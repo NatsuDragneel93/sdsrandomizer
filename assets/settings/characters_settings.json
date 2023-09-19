@@ -448,6 +448,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Elaine [Fulfilled Promise]",
+        "images": "./assets/images/[Fulfilled Promise] Elaine.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "hp"
+    },
+    {
         "name": "Elizabeth Princess [Liones]",
         "images": "./assets/images/[Liones] Princess Elizabeth.png",
         "grade": "ssr",
@@ -565,6 +572,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Eren Yeager [Firm Belief]",
+        "images": "./assets/images/[Firm Belief] Eren Yeager.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Eris Boreas [Mad Dog]",
@@ -1106,6 +1120,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Levi [Indomitable Feather]",
+        "images": "./assets/images/[Indomitable Feather] Levi.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Lillia Mage [Doombringer]",
         "images": "./assets/images/[Doombringer] Mage Lillia.png",
         "grade": "ssr",
@@ -1216,6 +1237,13 @@
         "grade": "ssr",
         "race": "giant",
         "attribute": "strength"
+    },
+    {
+        "name": "Matrona [A Vibrant Proud]",
+        "images": "./assets/images/[A vibrant proud] Matrona.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "hp"
     },
     {
         "name": "Megelda Valkyrie [Guide of Valhalla]",
