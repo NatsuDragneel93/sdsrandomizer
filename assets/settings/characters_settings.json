@@ -1,5 +1,19 @@
 [
     {
+        "name": "Ainz Ooal Gown [Ruler of Nazarick]",
+        "images": "./assets/images/[Ruler of Nazarick] Ainz Ooal Gown.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
+        "name": "Albedo [Pure-White Devil]",
+        "images": "./assets/images/[Pure-White Devil] Albedo.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Allioni Member [Beard of the Mountain Cat]",
         "images": "./assets/images/[Beard of the Mountain Cat] Member Allioni.png",
         "grade": "r",
@@ -193,6 +207,13 @@
         "images": "./assets/images/[Origin Fragment] Highest-Ranking Demon Chandler.png",
         "grade": "ssr",
         "race": "demon",
+        "attribute": "hp"
+    },
+    {
+        "name": "Cocytus [Guardian of the Glacier]",
+        "images": "./assets/images/[Guardian of the Glacier] Cocytus.png",
+        "grade": "ssr",
+        "race": "unknown",
         "attribute": "hp"
     },
     {
@@ -875,6 +896,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Hel Queen [Shepherd of Souls]",
+        "images": "./assets/images/[Shepherd of Souls] Queen Hel.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "darkness"
+    },
+    {
         "name": "Helbram Fairy [Forest Guardian]",
         "images": "./assets/images/[Forest Guardian] Fairy Helbram.png",
         "grade": "ssr",
@@ -1414,6 +1442,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Merlin Truth Seeker [Witch of the Snow]",
+        "images": "./assets/images/[Witch of the Snow] Truth Seeker Merlin.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Mikasa Ackermann [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Mikasa Ackermann.png",
         "grade": "ssr",
@@ -1610,6 +1645,13 @@
         "grade": "ssr",
         "race": "goddess",
         "attribute": "hp"
+    },
+    {
+        "name": "Shalltear Bloodfallen [Bloodie Valkyrie]",
+        "images": "./assets/images/[Bloodie Valkyrie] Shalltear Bloodfallen.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
     },
     {
         "name": "Shin Gamer [Halloween]",
