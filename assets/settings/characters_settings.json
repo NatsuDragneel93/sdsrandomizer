@@ -574,6 +574,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Ellatte Celestial [Pure Justice]",
+        "images": "./assets/images/[Pure Justice] Celestial Ellatte.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "hp"
+    },
+    {
         "name": "Emilia Ruler Candidate [ReZero]",
         "images": "./assets/images/[ReZero] Ruler Candidate Emilia.png",
         "grade": "ssr",
@@ -894,6 +901,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "speed"
+    },
+        {
+        "name": "Hawk & Oslo [Maritime Troublemakers]",
+        "images": "./assets/images/[Maritime Troublemakers] Oslo & Hawk.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Hel Queen [Shepherd of Souls]",
