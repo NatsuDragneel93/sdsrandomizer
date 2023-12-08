@@ -476,18 +476,18 @@
         "attribute": "hp"
     },
     {
-        "name": "Elizabeth Princess [Liones]",
-        "images": "./assets/images/[Liones] Princess Elizabeth.png",
-        "grade": "ssr",
-        "race": "goddess",
-        "attribute": "hp"
-    },
-    {
         "name": "Eleven [Stranger Things]",
         "images": "./assets/images/[Stranger Things] Eleven.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Elizabeth Princess [Liones]",
+        "images": "./assets/images/[Liones] Princess Elizabeth.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "hp"
     },
     {
         "name": "Elizabeth Princess [A New Adventure]",
@@ -527,6 +527,13 @@
     {
         "name": "Elizabeth of Reincarnation [Restored Memory]",
         "images": "./assets/images/[Restored Memory] Elizabeth of Reincarnation.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "light"
+    },
+    {
+        "name": "Elizabeth Queen [Brilliant Protection]",
+        "images": "./assets/images/[Brilliant Protection] Queen Elizabeth.png",
         "grade": "ssr",
         "race": "goddess",
         "attribute": "light"
