@@ -1626,6 +1626,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Roxy of Madness [Winter Whirlwind]",
+        "images": "./assets/images/[Winter Whirlwind] Roxy of Madness.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Roxy Migurdia [King-Class Water Mage]",
         "images": "./assets/images/[King-Class Water Mage] Roxy Migurdia.png",
         "grade": "ssr",
