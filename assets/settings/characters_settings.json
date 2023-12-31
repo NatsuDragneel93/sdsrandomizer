@@ -1414,13 +1414,6 @@
         "attribute": "speed"
     },
     {
-        "name": "Meliodas Demon King [End of an Era]",
-        "images": "./assets/images/[End of an Era] Demon King Meliodas.png",
-        "grade": "ur",
-        "race": "demon",
-        "attribute": "speed"
-    },
-    {
         "name": "Merlin Great Mage [The Boar Sin of Gluttony]",
         "images": "./assets/images/[The Boar Sin of Gluttony] Great Mage Merlin.png",
         "grade": "ssr",
