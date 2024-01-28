@@ -1141,6 +1141,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Fairy King Harlequin [Symbol of Unity]",
+        "images": "./assets/images/[Symbol of Unity] Fairy King Harlequin.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "hp"
+    },
+    {
         "name": "Kazayama Kizuna [Hunting Hero]",
         "images": "./assets/images/[Hunting Hero] Kazayama Kizuna.png",
         "grade": "ssr",
@@ -1410,6 +1417,13 @@
         "name": "Meliodas Captain [Tomorrow's Champion]",
         "images": "./assets/images/[Tomorrow's Champion] Captain Meliodas.png",
         "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
+    },
+    {
+        "name": "Meliodas Demon King [End of an Era]",
+        "images": "./assets/images/[End of an Era] Demon King Meliodas.png",
+        "grade": "ur",
         "race": "demon",
         "attribute": "speed"
     },
@@ -1694,6 +1708,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Shin [The Star of the Guild's Expectations]",
+        "images": "./assets/images/[The Star of the Guild's Expectations] Shin.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Shuna [Oni]",
