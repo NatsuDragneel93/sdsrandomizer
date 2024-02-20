@@ -350,6 +350,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Diane Queen [Messenger of Love]",
+        "images": "./assets/images/[Messenger of Love] Queen Diane.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "hp"
+    },
+    {
         "name": "Diane Blessing of the Earth [Beach Guardian]",
         "images": "./assets/images/[Beach Guardian] Blessing of the Earth Diane.png",
         "grade": "ssr",
@@ -1169,6 +1176,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Jue Viole Grace [Slayer Candidate]",
+        "images": "./assets/images/[Slayer Candidate] Jue Viole Grace.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Levi [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Levi.png",
         "grade": "ssr",
@@ -1876,6 +1890,20 @@
         "grade": "sr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Yuri Ha Zahard [Princess of Zahard]",
+        "images": "./assets/images/[Princess of Zahard] Ha Yuri Zahard.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
+        "name": "Zahard Data [Secret Floor]",
+        "images": "./assets/images/[Secret Floor] Data Zahard.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Zaneri Druid [Sweet Temptation]",
