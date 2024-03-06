@@ -70,6 +70,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Arthur Chaos [Broken Balance]",
+        "images": "./assets/images/[Broken Balance] Chaos Arthur.png",
+        "grade": "ur",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Athena Asamiya [KOF '98]",
         "images": "./assets/images/[KOF '98] Asamiya Athena.png",
         "grade": "ssr",
