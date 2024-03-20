@@ -749,6 +749,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Gelda Vampire [Undying Love]",
+        "images": "./assets/images/[Undying Love] Vampire Gelda.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Gerharde Aide [Three Millennia of Memories]",
         "images": "./assets/images/[Three Millennia of Memories] Aide Gerharde.png",
         "grade": "ssr",
