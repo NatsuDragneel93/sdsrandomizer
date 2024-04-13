@@ -849,7 +849,7 @@
     {
         "name": "Gowther [Wandering Knight]",
         "images": "./assets/images/[Wandering Knight] Gowther.png",
-        "grade": "ssr",
+        "grade": "ur",
         "race": "unknown",
         "attribute": "strength"
     },
