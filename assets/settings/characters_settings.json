@@ -847,6 +847,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Gowther [Wandering Knight]",
+        "images": "./assets/images/[Wandering Knight] Gowther.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Griamore Guardian [Iron-wall Knight]",
         "images": "./assets/images/[Iron-wall Knight] Guardian Griamore.png",
         "grade": "ssr",
@@ -1883,6 +1890,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Valenti [Steel Engineer]",
+        "images": "./assets/images/[Steel Engineer] Valenti.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Vivian Mage [Reincarnation of Obession]",
