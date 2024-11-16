@@ -736,7 +736,7 @@
     },
     {
         "name": "Fitoria [Filolial Queen]",
-        "images": "./assets/images/[Filolia Queen] Fitoria.png",
+        "images": "./assets/images/[Filolial Queen] Fitoria.png",
         "grade": "ssr",
         "race": "unknown",
         "attribute": "speed"
@@ -1900,7 +1900,7 @@
     },
     {
         "name": "Skadi [The Hunter]",
-        "images": "./assets/images/[The Huner] Skadi.png",
+        "images": "./assets/images/[The Hunter] Skadi.png",
         "grade": "ssr",
         "race": "giant",
         "attribute": "speed"
