@@ -84,6 +84,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Baldr God of Light [Hideen Glimmer]",
+        "images": "./assets/images/[Hidden Glimmer] God of Light Baldr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Ban Transcendence [The Seven Deadly Sins]",
         "images": "./assets/images/[The Seven Deadly Sins] Transcendence Ban.png",
         "grade": "ssr",
@@ -203,6 +210,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Camila Guardian Deity [Hybrid Instinct]",
+        "images": "./assets/images/[Hybrid Instinct] Guardian Deity Camila.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Chandler Magician [Pacifier Fiend]",
         "images": "./assets/images/[Pacifier Fiend] Magician Chandler.png",
         "grade": "ssr",
@@ -215,6 +229,13 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "hp"
+    },
+    {
+        "name": "Chandler Mage [Ancient Demon]",
+        "images": "./assets/images/[Ancient Demon] Mage Chandler.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "strength"
     },
     {
         "name": "Cocytus [Guardian of the Glacier]",
@@ -243,6 +264,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Demiurge [Creator of the Blazing Inferno]",
+        "images": "./assets/images/[Creator of the Blazing Inferno] Demiurge.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
     },
     {
         "name": "Demon King Tyrant [The Ruler]",
@@ -637,6 +665,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Escanor The Indomitable [Eternal Sun]",
+        "images": "./assets/images/[Eternal Sun] Escanor The Indomitable.png",
+        "grade": "ur",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Escanor Ultimate [Flame of Life]",
         "images": "./assets/images/[Flame of Life] Ultimate Escanor.png",
         "grade": "ssr",
@@ -686,11 +721,25 @@
         "attribute": "speed"
     },
     {
+        "name": "Estarossa Berserk [Holy War Nightmare]",
+        "images": "./assets/images/[Holy War Nightmare] Berserk Estarossa.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "strength"
+    },
+    {
         "name": "Filo [Queen's Successor]",
         "images": "./assets/images/[Queen's Successor] Filo.png",
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
+    },
+    {
+        "name": "Fitoria [Filolial Queen]",
+        "images": "./assets/images/[Filolia Queen] Fitoria.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Fraudrin of Selflessness [The Ten Commandments]",
@@ -749,6 +798,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Gamma Narberal [Pleiades]",
+        "images": "./assets/images/[Pleiades] Narberal Gamma.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Gelda Vampire [Undying Love]",
         "images": "./assets/images/[Undying Love] Vampire Gelda.png",
         "grade": "ssr",
@@ -789,6 +845,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Glass [Vassal Wielder]",
+        "images": "./assets/images/[Vassal Wielder] Glass.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Gloxinia of Repose [The Ten Commandments]",
@@ -1027,6 +1090,13 @@
         "grade": "r",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Jenna Druid [Guardian of Istal]",
+        "images": "./assets/images/[Guardian of Istal] Druid Jenna.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Jenna Druid [Sweet Temptation]",
@@ -1519,6 +1589,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Merlin Mage of Infinity [Ocean Seeker]",
+        "images": "./assets/images/[Ocean Seeker] Mage of Infinity Merlin.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Mikasa Ackermann [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Mikasa Ackermann.png",
         "grade": "ssr",
@@ -1540,6 +1617,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "speed"
+    },
+    {
+        "name": "Milim Nava [Proven Power]",
+        "images": "./assets/images/[Proven Power] Milim Nava.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
     },
     {
         "name": "Mono Human Weapon [Shepherd of Death]",
@@ -1596,6 +1680,20 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Percival Boy of Hope [A New Adventure]",
+        "images": "./assets/images/[A New Adventure] Boy of Hope Percival.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
+        "name": "Percival Little Hero [Unknown Power]",
+        "images": "./assets/images/[Unknown Power] Little Hero Percival.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "light"
     },
     {
         "name": "Raphtalia [Naofumi's Sword]",
@@ -1710,6 +1808,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Sabunak Nightmare [Abyssal Shadow]",
+        "images": "./assets/images/[Abyssal Shadow] Nightmare Sabunak.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Sariel of Tornado [The Four Archangels]",
         "images": "./assets/images/[The Four Archangels] Sariel of Tornado.png",
         "grade": "ssr",
@@ -1752,6 +1857,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Shion [Demon Lord's Secretary]",
+        "images": "./assets/images/[Demon Lord's Secretary] Shion.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Shuna [Oni]",
         "images": "./assets/images/[Oni] Shuna.png",
         "grade": "ssr",
@@ -1766,6 +1878,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Sigurd Prince [Curse of Greed]",
+        "images": "./assets/images/[Curse of Greed] Prince Sigurd.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Simon Holy Knight [Roars of Dawn]",
         "images": "./assets/images/[Roars of Dawn] Holy Knight Simon.png",
         "grade": "r",
@@ -1778,6 +1897,13 @@
         "grade": "ssr",
         "race": "giant",
         "attribute": "strength"
+    },
+    {
+        "name": "Skadi [The Hunter]",
+        "images": "./assets/images/[The Huner] Skadi.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "speed"
     },
     {
         "name": "Slater Hunter [Overpower]",
@@ -1841,6 +1967,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Thor the God of Thunder [Hammer of Justice]",
+        "images": "./assets/images/[Hammer of Justice] Thor the God of Thunder.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Tristan Prince [Future of Liones]",
