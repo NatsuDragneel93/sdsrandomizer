@@ -525,6 +525,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Elizabeth & Meliodas [Light of the Holy War]",
+        "images": "./assets/images/[Light of the Holy War] Elizabeth & Meliodas.png",
+        "grade": "ur",
+        "race": "goddess-demon",
+        "attribute": "light"
+    },
+    {
         "name": "Elizabeth Princess [Liones]",
         "images": "./assets/images/[Liones] Princess Elizabeth.png",
         "grade": "ssr",
@@ -1689,6 +1696,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Nasiens Herbalist [Venom Mixing]",
+        "images": "./assets/images/[Venom Mixing] Herbalist Nasiens.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Percival Boy of Hope [A New Adventure]",
         "images": "./assets/images/[A New Adventure] Boy of Hope Percival.png",
         "grade": "ssr",
@@ -2079,6 +2093,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Zaneri Druid [Holiday Diviner]",
+        "images": "./assets/images/[Holiday Diviner] Druid Zaneri.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Zaratras Grandmaster [Reincarnation of Conviction]",
