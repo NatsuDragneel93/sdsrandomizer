@@ -1850,6 +1850,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Sariel Covenant of Light [Winds of Hope]",
+        "images": "./assets/images/[Winds of Hope] Covenant of Light Sariel.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
+    },
+    {
         "name": "Shalltear Bloodfallen [Bloodie Valkyrie]",
         "images": "./assets/images/[Bloodie Valkyrie] Shalltear Bloodfallen.png",
         "grade": "ssr",
