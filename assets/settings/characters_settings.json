@@ -2025,6 +2025,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Urek Mazino [Free Spirit]",
+        "images": "./assets/images/[Free Spirit] Urek Mazino.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Valenti Weapon Researcher [Earthshaker]",
         "images": "./assets/images/[Earthshaker] Weapon Researcher Valenti.png",
         "grade": "ssr",
@@ -2079,6 +2086,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Yihwa Yeon [Red Flame Princess]",
+        "images": "./assets/images/[Red Flame Princess] Yihwa Yeon.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Yuri Ha Zahard [Princess of Zahard]",
