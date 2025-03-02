@@ -1176,6 +1176,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Jormungandr World Serpent [Sweet Temptation]",
+        "images": "./assets/images/[Sweet Temptation] World Serpent Jormungandr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Jude Holy Knight [Weird Fangs]",
         "images": "./assets/images/[Weird Fangs] Holy Knight Jude.png",
         "grade": "r",
@@ -1384,6 +1391,13 @@
         "grade": "ssr",
         "race": "goddess",
         "attribute": "light"
+    },
+    {
+        "name": "Mael Angel of Despair [Blackened Wings]",
+        "images": "./assets/images/[Blackened Wings] Angel of Despair Mael.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "darkness"
     },
     {
         "name": "Mai Shiranui [KOF '98]",
