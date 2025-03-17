@@ -21,6 +21,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Anghalhad Brave Girl [A New Adventure]",
+        "images": "./assets/images/[A New Adventure] Brave Girl Anghalhad.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Arden Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Arden.png",
         "grade": "sr",
