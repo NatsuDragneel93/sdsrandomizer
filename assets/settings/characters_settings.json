@@ -1029,6 +1029,13 @@
         "attribute": "darkness"
     },
     {
+        "name": "Hel Repose of Soul [Principled Perfect]",
+        "images": "./assets/images/[Principled Perfect] Repose of Soul Hel.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Helbram Fairy [Forest Guardian]",
         "images": "./assets/images/[Forest Guardian] Fairy Helbram.png",
         "grade": "ssr",
