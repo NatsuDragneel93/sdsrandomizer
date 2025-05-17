@@ -1902,7 +1902,7 @@
         "name": "Shadow Leader [The Eminence in Shadow]",
         "images": "./assets/images/[The Eminence in Shadow] Leader Shadow.png",
         "grade": "ssr",
-        "race": "unknown",
+        "race": "human",
         "attribute": "hp"
     },
     {
