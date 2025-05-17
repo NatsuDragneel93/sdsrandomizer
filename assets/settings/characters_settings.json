@@ -21,6 +21,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Alpha First Member [Shadow Garden]",
+        "images": "./assets/images/[Shadow Garden] First Member Alpha.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Anghalhad Brave Girl [A New Adventure]",
         "images": "./assets/images/[A New Adventure] Brave Girl Anghalhad.png",
         "grade": "ssr",
@@ -180,6 +187,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
+    },
+    {
+        "name": "Beta Second Member [Shadow Garden]",
+        "images": "./assets/images/[Shadow Garden] Second Member Beta.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Brunhild Princess [Guardian of Battlefield]",
@@ -1885,6 +1899,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Shadow Leader [The Eminence in Shadow]",
+        "images": "./assets/images/[The Eminence in Shadow] Leader Shadow.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Shalltear Bloodfallen [Bloodie Valkyrie]",
         "images": "./assets/images/[Bloodie Valkyrie] Shalltear Bloodfallen.png",
         "grade": "ssr",
@@ -2039,6 +2060,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Tristan Prince [Holy Knight Aspirant]",
+        "images": "./assets/images/[Holy Knight Aspirant] Prince Tristan.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Twigo Apprentice Holy Knight [Confirmation]",
         "images": "./assets/images/[Confirmation] Apprentice Holy Knight Twigo.png",
         "grade": "r",
@@ -2051,6 +2079,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
+    },
+    {
+        "name": "Tyr God of War [Flery Youth]",
+        "images": "./assets/images/[Flery Youth] God of War Tyr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Urek Mazino [Free Spirit]",
