@@ -189,6 +189,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Beru Predator [Army of Shadows]",
+        "images": "./assets/images/[Army of Shadows] Predator Beru.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Beta Second Member [Shadow Garden]",
         "images": "./assets/images/[Shadow Garden] Second Member Beta.png",
         "grade": "ssr",
@@ -236,6 +243,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
+    },
+    {
+        "name": "Cha Hae-In The Dancer[S-Rank Hunter]",
+        "images": "./assets/images/[S-Rank Hunter] The Dancer Cha Hae-In.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Chandler Magician [Pacifier Fiend]",
@@ -297,6 +311,13 @@
         "name": "Demon King Tyrant [The Ruler]",
         "images": "./assets/images/[The Ruler] Tyrant Demon King.png",
         "grade": "ssr",
+        "race": "demon",
+        "attribute": "darkness"
+    },
+    {
+        "name": "Demon King Oppressor [Incomplete Control]",
+        "images": "./assets/images/[Incomplete Control] Oppressor Demon King.png",
+        "grade": "ur",
         "race": "demon",
         "attribute": "darkness"
     },
@@ -812,6 +833,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Freyr Sun God [Prince of the Vanir Gods]",
+        "images": "./assets/images/[Prince of the Vanir Gods] Sun God Freyr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
         "name": "Galland of Truth [The Ten Commandments]",
         "images": "./assets/images/[The Ten Commandments] Galland of Truth.png",
         "grade": "ssr",
@@ -1223,6 +1251,13 @@
         "grade": "ssr",
         "race": "fairy",
         "attribute": "strength"
+    },
+    {
+        "name": "King & Diane [Rulers of the New Era]",
+        "images": "./assets/images/[Rulers of the New Era] King & Diane.png",
+        "grade": "ur",
+        "race": "fairy-giant",
+        "attribute": "speed"
     },
     {
         "name": "King the Fairy King [The Grizzly Sin of Sloth]",
@@ -1745,6 +1780,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Pellegarde Knight Black [Burning Spirit]",
+        "images": "./assets/images/[Burning Spirit] Black Knight Pellegarde.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Percival Boy of Hope [A New Adventure]",
         "images": "./assets/images/[A New Adventure] Boy of Hope Percival.png",
         "grade": "ssr",
@@ -2004,6 +2046,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Sung Jinwoo Monarch of Shadows [S-Rank Hunter]",
+        "images": "./assets/images/[S-Rank Hunter] Monarch of Shadows Sung Jinwoo.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Taizoo Champion [Vaizel Fight Festival]",
         "images": "./assets/images/[Vaizel Fight Festival] Champion Taizoo.png",
         "grade": "r",
@@ -2128,6 +2177,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Varghese Knight Retired [Veteran Warrior]",
+        "images": "./assets/images/[Veteran Warrior] Retired Knight Varghese.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Vivian Mage [Reincarnation of Obession]",
