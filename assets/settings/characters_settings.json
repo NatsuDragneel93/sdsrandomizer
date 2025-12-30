@@ -302,7 +302,7 @@
     },
     {
         "name": "Darkness Knight [Crusader]",
-        "images": "./assets/images/[Crusader] Darkness Knight.png",
+        "images": "./assets/images/[Crusader] Knight Darkness.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
@@ -453,6 +453,13 @@
         "grade": "ssr",
         "race": "giant",
         "attribute": "strength"
+    },
+    {
+        "name": "Diane Blessing of the Earth [Shining Wish]",
+        "images": "./assets/images/[Shining Wish] Blessing of the Earth Diane.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "speed"
     },
     {
         "name": "Dogedo Holy Knight [The Pleiades of the Azure Sky]",
@@ -656,6 +663,13 @@
         "grade": "ssr",
         "race": "goddess",
         "attribute": "light"
+    },
+    {
+        "name": "Elizabeth Queen [Gift of the Snow]",
+        "images": "./assets/images/[Gift of the Snow] Queen Elizabeth.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "speed"
     },
     {
         "name": "Elizabeth & Hawk [Reverse]",
@@ -1743,6 +1757,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Merlin & Escanor [Dusk's Oath]",
+        "images": "./assets/images/[Dusk's Oath] Merlin & Escanor.png",
+        "grade": "ur",
+        "race": "unknown-human",
+        "attribute": "hp"
+    },
+    {
         "name": "Mikasa Ackermann [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Mikasa Ackermann.png",
         "grade": "ssr",
@@ -2184,6 +2205,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
+    },
+    {
+        "name": "Tristan Knight of the Prophecy [Light of Liones]",
+        "images": "./assets/images/[Light of Liones] Knight of the Prophecy Tristan.png",
+        "grade": "ur",
+        "race": "goddess-demon",
+        "attribute": "light-darkness"
     },
     {
         "name": "Twigo Apprentice Holy Knight [Confirmation]",
