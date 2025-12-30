@@ -511,6 +511,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Eastin of Authority [Deep Sea Explorer]",
+        "images": "./assets/images/[Deep Sea Explorer] Eastin of Authority.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Echidna Witch of Greed [ReZero]",
         "images": "./assets/images/[ReZero] Witch of Greed Echidna.png",
         "grade": "ssr",
@@ -866,6 +873,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
+    },
+    {
+        "name": "Gelda Promise Keeper [Passionate Summer]",
+        "images": "./assets/images/[Passionate Summer] Promise Keeper Gelda.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Gerharde Aide [Three Millennia of Memories]",
@@ -1533,6 +1547,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Meliodas Berserk [Cruel Nightmare]",
+        "images": "./assets/images/[Cruel Nightmare] Berserk Meliodas.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "speed"
+    },
+    {
         "name": "Meliodas Berserk [Assault Mode]",
         "images": "./assets/images/[Assault Mode] Berserk Meliodas.png",
         "grade": "ssr",
@@ -2023,6 +2044,20 @@
         "grade": "ssr",
         "race": "giant",
         "attribute": "speed"
+    },
+    {
+        "name": "Skadi Giant [Frostbane Warrior]",
+        "images": "./assets/images/[Frostbane Warrior] Skadi Giant.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "hp"
+    },
+    {
+        "name": "Skuld Goddess of Fate [Destiny Defier]",
+        "images": "./assets/images/[Destiny Defier] Goddess of Fate Skuld.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "hp"
     },
     {
         "name": "Slater Hunter [Overpower]",
