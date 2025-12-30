@@ -35,6 +35,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Aqua Water Goddess [Arch Priest]",
+        "images": "./assets/images/[Arch Priest] Water Goddess Aqua.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "light"
+    },
+    {
         "name": "Arden Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Arden.png",
         "grade": "sr",
@@ -287,11 +294,18 @@
         "attribute": "speed"
     },
     {
-        "name": "Highest-Ranking Demon Cusack [Origin Fragment]",
+        "name": "Cusack Highest-Ranking Demon [Origin Fragment]",
         "images": "./assets/images/[Origin Fragment] Highest-Ranking Demon Cusack.png",
         "grade": "ssr",
         "race": "demon",
         "attribute": "speed"
+    },
+    {
+        "name": "Darkness Knight [Crusader]",
+        "images": "./assets/images/[Crusader] Darkness Knight.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Deathpierce Holy Knight [The Pleiades of the Azure Sky]",
@@ -474,6 +488,13 @@
         "grade": "ssr",
         "race": "giant",
         "attribute": "hp"
+    },
+    {
+        "name": "Drole of Patience [Great Warrior]",
+        "images": "./assets/images/[Great Warrior] Drole of Patience.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "strength"
     },
     {
         "name": "Eastin Noblesse [Ruler of Stormy Seas]",
@@ -1435,6 +1456,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Loki God of Mischief [Banished Chaos]",
+        "images": "./assets/images/[Banished Chaos] God of Mischief Loki.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "hp"
+    },
+    {
         "name": "Ludociel of Flash [The Four Archangels]",
         "images": "./assets/images/[The Four Archangels] Ludociel of Flash.png",
         "grade": "ssr",
@@ -1523,6 +1551,13 @@
         "images": "./assets/images/[Pride of Valhalla] Valkyrie Megellda.png",
         "grade": "ssr",
         "race": "unknown",
+        "attribute": "strength"
+    },
+    {
+        "name": "Megumin Crimson Demon Girl [Arch Wizard]",
+        "images": "./assets/images/[Arch Wizard] Crimson Demon Girl Megumin.png",
+        "grade": "ssr",
+        "race": "human",
         "attribute": "strength"
     },
     {
@@ -2047,7 +2082,7 @@
     },
     {
         "name": "Skadi Giant [Frostbane Warrior]",
-        "images": "./assets/images/[Frostbane Warrior] Skadi Giant.png",
+        "images": "./assets/images/[Frostbane Warrior] Giant Skadi.png",
         "grade": "ssr",
         "race": "giant",
         "attribute": "hp"
