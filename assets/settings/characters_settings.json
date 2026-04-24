@@ -24,7 +24,7 @@
         "name": "Alpha First Member [Shadow Garden]",
         "images": "./assets/images/[Shadow Garden] First Member Alpha.png",
         "grade": "ssr",
-        "race": "unknown",
+        "race": "fairy",
         "attribute": "speed"
     },
     {
@@ -33,6 +33,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+        {
+        "name": "Anghalhad Brave Girl [Sweet Temptation]",
+        "images": "./assets/images/[Sweet Temptation] Brave Girl Anghalhad.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Aqua Water Goddess [Arch Priest]",
@@ -117,6 +124,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "light"
+    },
+        {
+        "name": "Ban Transcendent [Helping Hands]",
+        "images": "./assets/images/[Helping Hands] Transcendent Ban.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Ban Purgatory [Undead Survivor]",
@@ -206,7 +220,7 @@
         "name": "Beta Second Member [Shadow Garden]",
         "images": "./assets/images/[Shadow Garden] Second Member Beta.png",
         "grade": "ssr",
-        "race": "unknown",
+        "race": "fairy",
         "attribute": "speed"
     },
     {
@@ -460,6 +474,13 @@
         "grade": "ssr",
         "race": "giant",
         "attribute": "speed"
+    },
+    {
+        "name": "Diane Fighter [Bubbly Classmate]",
+        "images": "./assets/images/[Bubbly Classmate] Fighter Diane.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "light"
     },
     {
         "name": "Dogedo Holy Knight [The Pleiades of the Azure Sky]",
@@ -1105,7 +1126,7 @@
         "race": "unknown",
         "attribute": "speed"
     },
-        {
+    {
         "name": "Hawk & Oslo [Maritime Troublemakers]",
         "images": "./assets/images/[Maritime Troublemakers] Oslo & Hawk.png",
         "grade": "ssr",
@@ -1371,6 +1392,13 @@
         "race": "fairy",
         "attribute": "hp"
     },
+        {
+        "name": "King Tree Guardian [Friendly Classmate]",
+        "images": "./assets/images/[Friendly Classmate] Tree Guardian King.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "light"
+    },
     {
         "name": "Kazayama Kizuna [Hunting Hero]",
         "images": "./assets/images/[Hunting Hero] Kazayama Kizuna.png",
@@ -1483,7 +1511,7 @@
         "race": "goddess",
         "attribute": "speed"
     },
-        {
+    {
         "name": "Ludociel of Flash [Divine Proxy]",
         "images": "./assets/images/[Divine Proxy] Ludociel of Flash.png",
         "grade": "ssr",
@@ -1769,7 +1797,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
-
     },
     {
         "name": "Mike Wheelers [Stranger Things]",
@@ -1777,7 +1804,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
-
     },
     {
         "name": "Milim Nava [Tyrant of Destruction]",
@@ -1820,6 +1846,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Mono of Blood and Iron [Blade Unleashed]",
+        "images": "./assets/images/[Blade Unleashed] Mono of Blood and Iron.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Monspeet of Reticence [The Ten Commandments]",
@@ -1996,6 +2029,13 @@
         "race": "unknown",
         "attribute": "strength"
     },
+        {
+        "name": "Salos Nightmare [Chains of Despair]",
+        "images": "./assets/images/[Chains of Despair] Nightmare Salos.png",
+        "grade": "ur",
+        "race": "unknown",
+        "attribute": "hp"
+    },
     {
         "name": "Sariel of Tornado [The Four Archangels]",
         "images": "./assets/images/[The Four Archangels] Sariel of Tornado.png",
@@ -2052,12 +2092,26 @@
         "race": "human",
         "attribute": "speed"
     },
+            {
+        "name": "Shinra Kusakabe [Hero of Flames]",
+        "images": "./assets/images/[Hero of Flames] Shinra Kusakabe.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
     {
         "name": "Shion [Demon Lord's Secretary]",
         "images": "./assets/images/[Demon Lord's Secretary] Shion.png",
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
+    },
+        {
+        "name": "Sho Kusakabe [Frozen Time]",
+        "images": "./assets/images/[Frozen Time] Sho Kusakabe.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Shuna [Oni]",
@@ -2149,6 +2203,13 @@
         "grade": "r",
         "race": "human",
         "attribute": "strength"
+    },
+        {
+        "name": "Tamaki Kotatsu [Red Flame Nekomata]",
+        "images": "./assets/images/[Red Flame Nekomata] Tamaki Kotatsu.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
     },
     {
         "name": "Tarmiel of Ocean [The Four Archangels]",
@@ -2247,6 +2308,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+        {
+        "name": "Valenti Weapon Researcher [Mad Inventor]",
+        "images": "./assets/images/[Mad Inventor] Weapon Researcher Valenti.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Valenti of Obsession [Magic Weapon MK-II]",
